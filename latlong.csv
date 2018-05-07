@@ -1,25 +1,25 @@
-Restaurants,Address,Latitude,Longitude,City 
-Chick-fil-a, 7916 Brewerton Rd Cicero NY 13039, 43.153199,-76.123188, Cicero
-Funk 'n Waffles, 727 S Crouse Ave Ste 8 Syracuse NY 13210, 43.042119,-76.136118, Syracuse
-Stella's Diner,110 Wolf St Syracuse NY 13208, 43.069115,-76.165286, Syracuse
-Cheesecake Factory, 306 Hiawatha Blvd W J-11 Syracuse NY 13290, 43.069270,-76.171220, Syracuse
-Chipotle Mexican Grill, 129 Marshall St Syracuse NY 13210, 43.041790,-76.135965, Syracuse
-Bleu Monkey Cafe, 163 Marshall St Syracuse NY 13210, 43.041775,-76.135236, Syracuse          
-Dinosaur Bar-B-Que, 246 W Willow St Syracuse NY 13202, 43.052687,-76.154598, Syracuse                  
-Varsity Pizza, 802 S Crouse Ave Syracuse Ny 13210, 43.041475,-76.136938, Syracuse
-Phoebe's Restaurant & Coffee Lounge, 900 E Genesee St Syracuse NY 13210, 43.046700,-76.137585, Syracuse        
-Panda West Chinese Restaurant, 135 Marshall St Syracuse NY 13210, 43.041855,-76.135718, Syracuse
-Calios, 123 Marshall St Syracuse NY 13210,43.041768,-76.136113, Syracuse
-Lemon Grass Restaurant, 238 W Jefferson St, 43.047553,-76.154419, Syracuse
-Pastabilities, 311 S Franklin St Syracuse Ny 13202,43.048302,-76.155406, Syracuse
-Original Grain, 302 S Salina St Syracuse NY 13202, 43.048509,-76.152504, Syracuse
-Mom's Diner, 501 Westcott St Syracuse NY 13210, 43.041390,-76.119061, Syracuse
-Cafe Kubal, 720 University Ave Syracuse NY 13210, 43.042265,-76.134613, Syracuse
-Starbucks, 177 Marshall St Syracuse NY 13210, 43.041746,-76.134625, Syracuse       
-Starbucks, 150 Henry St Syracuse NY 13210, 43.036579,-76.141100, Syracuse
-Dunkin' Donuts, 746 S Crouse Ave Syracuse NY 13210, 43.041641,-76.136842, Syracuse
-Recess Coffee, 110 Montgomery St #103 Syracuse NY 13202, 43.050052,-76.149458, Syracuse  
-The Sweet Praxis, 203 E Water St Syracuse NY 13202,43.050716,-76.150612, Syracuse
-Salt City Coffee, 509 W Onondaga St Syracuse NY 13204, 43.039516,-76.158300, Syracuse
-Unique Tea House, 171 Marshall St Syracuse NY 13210, 43.041807,-76.134908, Syracuse
-Insomnia Cookies, 137 Marshall St Syracuse NY 13210, 43.041727,-76.135656, Syracuse
+Restaurants: Address, Latitude, Longitude 
+Chick-fil-a: 7916 Brewerton Rd Cicero NY 13039, 43.153199,-76.123188
+Funk 'n Waffles: 727 S Crouse Ave Ste 8 Syracuse NY 13210, 43.042119,-76.136118
+Stella's Diner: 110 Wolf St Syracuse NY 13208, 43.069115,-76.165286
+Cheesecake Factory: 306 Hiawatha Blvd W J-11 Syracuse NY 13290, 43.069270,-76.171220
+Chipotle Mexican Grill: 129 Marshall St Syracuse NY 13210, 43.041790,-76.135965
+Bleu Monkey Cafe: 163 Marshall St Syracuse NY 13210, 43.041775,-76.135236       
+Dinosaur Bar-B-Que: 246 W Willow St Syracuse NY 13202, 43.052687,-76.154598           
+Varsity Pizza: 802 S Crouse Ave Syracuse Ny 13210, 43.041475,-76.136938
+Phoebe's Restaurant & Coffee Lounge: 900 E Genesee St Syracuse NY 13210, 43.046700,-76.137585 
+Panda West Chinese Restaurant: 135 Marshall St Syracuse NY 13210, 43.041855,-76.135718
+Calios: 123 Marshall St Syracuse NY 13210,43.041768,-76.136113
+Lemon Grass Restaurant: 238 W Jefferson St, 43.047553,-76.154419
+Pastabilities: 311 S Franklin St Syracuse Ny 13202,43.048302,-76.155406
+Original Grain: 302 S Salina St Syracuse NY 13202, 43.048509,-76.152504
+Mom's Diner: 501 Westcott St Syracuse NY 13210, 43.041390,-76.119061
+Cafe Kubal: 720 University Ave Syracuse NY 13210, 43.042265,-76.134613
+Starbucks: 177 Marshall St Syracuse NY 13210, 43.041746,-76.134625      
+Starbucks: 150 Henry St Syracuse NY 13210, 43.036579,-76.141100
+Dunkin' Donuts: 746 S Crouse Ave Syracuse NY 13210, 43.041641,-76.136842
+Recess Coffee: 110 Montgomery St #103 Syracuse NY 13202, 43.050052,-76.149458
+The Sweet Praxis: 203 E Water St Syracuse NY 13202,43.050716,-76.150612
+Salt City Coffee: 509 W Onondaga St Syracuse NY 13204, 43.039516,-76.158300
+Unique Tea House: 171 Marshall St Syracuse NY 13210, 43.041807,-76.134908
+Insomnia Cookies: 137 Marshall St Syracuse NY 13210, 43.041727,-76.135656
